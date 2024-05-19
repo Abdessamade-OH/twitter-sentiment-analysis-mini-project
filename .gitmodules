@@ -1,0 +1,6 @@
+[submodule "twitter-sentiment-analysis"]
+	path = twitter-sentiment-analysis
+	url = https://github.com/Abdessamade-OH/twitter-sentiment-analysis
+[submodule "tsa-backend"]
+	path = tsa-backend
+	url = https://github.com/Abdessamade-OH/tsa-backend
